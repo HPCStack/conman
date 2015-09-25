@@ -2,7 +2,7 @@ conman (0.2.7-1ubuntu1) trusty; urgency=low
 
   * Imported debianize patch from conman-debianize repo (by Yao-Po Wang <blue119@gmail.com>)
 
- -- Yuriy Shestakov <yshestakov@gmail.com>  Fri, 25 Sep 2015 16:16:49 +0000
+ -- Yuriy Shestakov (hpcstack) <yshestakov@gmail.com>  Fri, 25 Sep 2015 16:16:49 +0000
 
 conman (0.2.7-1) unstable; urgency=low
 
